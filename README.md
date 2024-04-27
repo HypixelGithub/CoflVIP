@@ -1,8 +1,8 @@
 # CoflVIP
-- COFL Auction House Flipping Mod Motto: "Mod that make you S tier auction house flipper"
 - [VirusTotal](https://www.virustotal.com/gui/file/dbd8ae6c90336a9f94a0cfdf9d795179b9d56e27f6432a569d4a715c17ec3d4e/detection)
 - Always be on guard! with [https://github.com/overwolf/jar-infection-scanner](https://github.com/overwolf/jar-infection-scanner)
-----------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------
+- COFL Auction House Flipping Mod Motto: "Mod that make you S tier auction house flipper"
 Welcome to the ultimate tool to elevate your auction house flipping game on Hypixel! 
 The mod is designed to empower you with the insights and strategies needed to become a top-tier auction house flipper.
 Key Features:
