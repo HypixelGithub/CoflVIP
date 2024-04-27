@@ -20,3 +20,16 @@ How to Use:
     Watch your profits soar as you master the art of auction house flipping.
 
 Join the ranks of elite auction house flippers. Take your flipping skills to the next level and dominate the Hypixel Auction House like never before!!!
+
+
+
+
+
+
+
+
+
+
+Disclaimer:
+This mod is intended for educational purposes only UAOYR.
+We are not responsible for any kind of damage caused by the use of this software/file.
